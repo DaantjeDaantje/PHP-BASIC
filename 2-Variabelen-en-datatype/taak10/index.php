@@ -7,7 +7,7 @@
         $item = "<li>banaan</li>";
         $item .= "<li>iets</li>";
         $item .= "<li>ja</li>";
-        echo "<ul>$item</ul";
+        echo "<ul>$item</ul>";
 	?>
 </body>
 
