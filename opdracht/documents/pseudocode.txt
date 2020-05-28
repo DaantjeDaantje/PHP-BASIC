@@ -1,1 +1,8 @@
-
+Er moeten 2 pagina's komen: een home pagina en een producten pagina.
+Op die pagina's moeten een menu en een footer komen met include "includes/menu.php"; "includes/footer.php";.
+Maak bij een menu met hyperlinks: href="producten.php".        
+De functions met include in head include "includes/functions.php"; dan krijg ik geen foutmelding meer.
+Op de HomePagina moet ik de datatype krijgen van de input.
+Op de ProductenPagina moet ik een 10 producten tonen met de prijs via een array en de prijzen moeten in decimalen.
+De prijs moet worden berekend door de artikelnummer en het altijd die de klant zelf invult.   
+De klant kan zijn leeftijd invullen om te kijken of hij/zij korting krijgt met switch statement.
